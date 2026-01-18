@@ -1,0 +1,33 @@
+{
+  "name": "jamilvite",
+  "version": "0.1.0",
+  "description": "Scaffold Vite + React with Router, Tailwind, and W3.CSS",
+  "type": "module",
+  "bin": {
+    "jamilvite": "src/cli.js"
+  },
+  "files": [
+    "src",
+    "templates",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md",
+    "TODO.md"
+  ],
+  "keywords": [
+    "vite",
+    "react",
+    "router",
+    "tailwind",
+    "scaffold",
+    "cli"
+  ],
+  "license": "MIT",
+  "author": "",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}

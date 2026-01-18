@@ -1,0 +1,42 @@
+.w3-bar {
+  display: flex;
+  align-items: center;
+}
+
+.w3-bar-item {
+  padding: 8px 16px;
+}
+
+.w3-blue {
+  background-color: #0d6efd;
+}
+
+.w3-white {
+  background-color: #ffffff;
+  color: #0f172a;
+}
+
+.w3-border {
+  border: 1px solid #cbd5f5;
+}
+
+.w3-border-blue {
+  border-color: #0d6efd;
+}
+
+.w3-round-large {
+  border-radius: 999px;
+}
+
+.w3-button {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.w3-button:hover {
+  background-color: #e2e8f0;
+}
